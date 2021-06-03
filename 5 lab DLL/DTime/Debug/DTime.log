@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  MYDLL.cpp
+C:\WORKSPACE\5 lab DLL\DTime\MYDLL.cpp(8,12): warning C4273: Hour: несовместимое связывание dll
+C:\WORKSPACE\5 lab DLL\DTime\myDll.h(9,26): message : см. предыдущее определение "Hour"
+C:\WORKSPACE\5 lab DLL\DTime\MYDLL.cpp(14,14): warning C4273: Minute: несовместимое связывание dll
+C:\WORKSPACE\5 lab DLL\DTime\myDll.h(11,27): message : см. предыдущее определение "Minute"
+C:\WORKSPACE\5 lab DLL\DTime\MYDLL.cpp(20,14): warning C4273: Second: несовместимое связывание dll
+C:\WORKSPACE\5 lab DLL\DTime\myDll.h(13,27): message : см. предыдущее определение "Second"
+  dllmain.cpp
+  Создание кода...
+     Создается библиотека C:\WORKSPACE\5 lab DLL\DTime\Debug\DTime.lib и объект C:\WORKSPACE\5 lab DLL\DTime\Debug\DTime.exp
+  DTime.vcxproj -> C:\WORKSPACE\5 lab DLL\DTime\Debug\DTime.dll

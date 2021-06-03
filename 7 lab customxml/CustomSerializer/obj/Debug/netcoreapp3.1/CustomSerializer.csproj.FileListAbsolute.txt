@@ -1,0 +1,11 @@
+C:\WORKSPACE\7 lab customxml\CustomSerializer\obj\Debug\netcoreapp3.1\CustomSerializer.csprojAssemblyReference.cache
+C:\WORKSPACE\7 lab customxml\CustomSerializer\obj\Debug\netcoreapp3.1\CustomSerializer.AssemblyInfoInputs.cache
+C:\WORKSPACE\7 lab customxml\CustomSerializer\obj\Debug\netcoreapp3.1\CustomSerializer.AssemblyInfo.cs
+C:\WORKSPACE\7 lab customxml\CustomSerializer\bin\Debug\netcoreapp3.1\CustomSerializer.exe
+C:\WORKSPACE\7 lab customxml\CustomSerializer\bin\Debug\netcoreapp3.1\CustomSerializer.deps.json
+C:\WORKSPACE\7 lab customxml\CustomSerializer\bin\Debug\netcoreapp3.1\CustomSerializer.runtimeconfig.json
+C:\WORKSPACE\7 lab customxml\CustomSerializer\bin\Debug\netcoreapp3.1\CustomSerializer.runtimeconfig.dev.json
+C:\WORKSPACE\7 lab customxml\CustomSerializer\bin\Debug\netcoreapp3.1\CustomSerializer.dll
+C:\WORKSPACE\7 lab customxml\CustomSerializer\bin\Debug\netcoreapp3.1\CustomSerializer.pdb
+C:\WORKSPACE\7 lab customxml\CustomSerializer\obj\Debug\netcoreapp3.1\CustomSerializer.dll
+C:\WORKSPACE\7 lab customxml\CustomSerializer\obj\Debug\netcoreapp3.1\CustomSerializer.pdb

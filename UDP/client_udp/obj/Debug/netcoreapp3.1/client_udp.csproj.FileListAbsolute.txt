@@ -1,0 +1,10 @@
+C:\WORKSPACE\UDP\client_udp\bin\Debug\netcoreapp3.1\client_udp.exe
+C:\WORKSPACE\UDP\client_udp\bin\Debug\netcoreapp3.1\client_udp.deps.json
+C:\WORKSPACE\UDP\client_udp\bin\Debug\netcoreapp3.1\client_udp.runtimeconfig.json
+C:\WORKSPACE\UDP\client_udp\bin\Debug\netcoreapp3.1\client_udp.runtimeconfig.dev.json
+C:\WORKSPACE\UDP\client_udp\bin\Debug\netcoreapp3.1\client_udp.dll
+C:\WORKSPACE\UDP\client_udp\bin\Debug\netcoreapp3.1\client_udp.pdb
+C:\WORKSPACE\UDP\client_udp\obj\Debug\netcoreapp3.1\client_udp.AssemblyInfoInputs.cache
+C:\WORKSPACE\UDP\client_udp\obj\Debug\netcoreapp3.1\client_udp.AssemblyInfo.cs
+C:\WORKSPACE\UDP\client_udp\obj\Debug\netcoreapp3.1\client_udp.dll
+C:\WORKSPACE\UDP\client_udp\obj\Debug\netcoreapp3.1\client_udp.pdb

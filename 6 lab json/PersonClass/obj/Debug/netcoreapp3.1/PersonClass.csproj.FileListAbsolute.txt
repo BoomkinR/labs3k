@@ -1,0 +1,15 @@
+C:\WORKSPACE\6 lab json\PersonClass\bin\Debug\netcoreapp3.1\PersonClass.exe
+C:\WORKSPACE\6 lab json\PersonClass\bin\Debug\netcoreapp3.1\PersonClass.deps.json
+C:\WORKSPACE\6 lab json\PersonClass\bin\Debug\netcoreapp3.1\PersonClass.runtimeconfig.json
+C:\WORKSPACE\6 lab json\PersonClass\bin\Debug\netcoreapp3.1\PersonClass.runtimeconfig.dev.json
+C:\WORKSPACE\6 lab json\PersonClass\bin\Debug\netcoreapp3.1\PersonClass.dll
+C:\WORKSPACE\6 lab json\PersonClass\bin\Debug\netcoreapp3.1\PersonClass.pdb
+C:\WORKSPACE\6 lab json\PersonClass\obj\Debug\netcoreapp3.1\PersonClass.csprojAssemblyReference.cache
+C:\WORKSPACE\6 lab json\PersonClass\obj\Debug\netcoreapp3.1\PersonClass.AssemblyInfoInputs.cache
+C:\WORKSPACE\6 lab json\PersonClass\obj\Debug\netcoreapp3.1\PersonClass.AssemblyInfo.cs
+C:\WORKSPACE\6 lab json\PersonClass\obj\Debug\netcoreapp3.1\PersonClass.dll
+C:\WORKSPACE\6 lab json\PersonClass\obj\Debug\netcoreapp3.1\PersonClass.pdb
+C:\WORKSPACE\6 lab json\PersonClass\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\WORKSPACE\6 lab json\PersonClass\obj\Debug\netcoreapp3.1\PersonClass.csproj.CopyComplete
+C:\WORKSPACE\6 lab json\PersonClass\bin\Debug\netcoreapp3.1\SerJohn.dll
+C:\WORKSPACE\6 lab json\PersonClass\bin\Debug\netcoreapp3.1\SerJohn.pdb

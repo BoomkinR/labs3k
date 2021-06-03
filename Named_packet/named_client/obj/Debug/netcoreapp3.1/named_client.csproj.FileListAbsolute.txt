@@ -1,0 +1,11 @@
+C:\WORKSPACE\Named_packet\named_client\bin\Debug\netcoreapp3.1\named_client.exe
+C:\WORKSPACE\Named_packet\named_client\bin\Debug\netcoreapp3.1\named_client.deps.json
+C:\WORKSPACE\Named_packet\named_client\bin\Debug\netcoreapp3.1\named_client.runtimeconfig.json
+C:\WORKSPACE\Named_packet\named_client\bin\Debug\netcoreapp3.1\named_client.runtimeconfig.dev.json
+C:\WORKSPACE\Named_packet\named_client\bin\Debug\netcoreapp3.1\named_client.dll
+C:\WORKSPACE\Named_packet\named_client\bin\Debug\netcoreapp3.1\named_client.pdb
+C:\WORKSPACE\Named_packet\named_client\obj\Debug\netcoreapp3.1\named_client.AssemblyInfoInputs.cache
+C:\WORKSPACE\Named_packet\named_client\obj\Debug\netcoreapp3.1\named_client.AssemblyInfo.cs
+C:\WORKSPACE\Named_packet\named_client\obj\Debug\netcoreapp3.1\named_client.dll
+C:\WORKSPACE\Named_packet\named_client\obj\Debug\netcoreapp3.1\named_client.pdb
+C:\WORKSPACE\Named_packet\named_client\obj\Debug\netcoreapp3.1\named_client.csprojAssemblyReference.cache

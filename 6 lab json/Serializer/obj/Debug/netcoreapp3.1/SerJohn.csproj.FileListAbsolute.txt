@@ -1,0 +1,7 @@
+C:\WORKSPACE\6 lab json\Serializer\bin\Debug\netcoreapp3.1\SerJohn.deps.json
+C:\WORKSPACE\6 lab json\Serializer\bin\Debug\netcoreapp3.1\SerJohn.dll
+C:\WORKSPACE\6 lab json\Serializer\bin\Debug\netcoreapp3.1\SerJohn.pdb
+C:\WORKSPACE\6 lab json\Serializer\obj\Debug\netcoreapp3.1\SerJohn.AssemblyInfoInputs.cache
+C:\WORKSPACE\6 lab json\Serializer\obj\Debug\netcoreapp3.1\SerJohn.AssemblyInfo.cs
+C:\WORKSPACE\6 lab json\Serializer\obj\Debug\netcoreapp3.1\SerJohn.dll
+C:\WORKSPACE\6 lab json\Serializer\obj\Debug\netcoreapp3.1\SerJohn.pdb

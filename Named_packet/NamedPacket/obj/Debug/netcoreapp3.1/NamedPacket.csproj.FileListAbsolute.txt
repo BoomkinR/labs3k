@@ -1,0 +1,11 @@
+C:\WORKSPACE\Named_packet\NamedPacket\bin\Debug\netcoreapp3.1\NamedPacket.exe
+C:\WORKSPACE\Named_packet\NamedPacket\bin\Debug\netcoreapp3.1\NamedPacket.deps.json
+C:\WORKSPACE\Named_packet\NamedPacket\bin\Debug\netcoreapp3.1\NamedPacket.runtimeconfig.json
+C:\WORKSPACE\Named_packet\NamedPacket\bin\Debug\netcoreapp3.1\NamedPacket.runtimeconfig.dev.json
+C:\WORKSPACE\Named_packet\NamedPacket\bin\Debug\netcoreapp3.1\NamedPacket.dll
+C:\WORKSPACE\Named_packet\NamedPacket\bin\Debug\netcoreapp3.1\NamedPacket.pdb
+C:\WORKSPACE\Named_packet\NamedPacket\obj\Debug\netcoreapp3.1\NamedPacket.csprojAssemblyReference.cache
+C:\WORKSPACE\Named_packet\NamedPacket\obj\Debug\netcoreapp3.1\NamedPacket.AssemblyInfoInputs.cache
+C:\WORKSPACE\Named_packet\NamedPacket\obj\Debug\netcoreapp3.1\NamedPacket.AssemblyInfo.cs
+C:\WORKSPACE\Named_packet\NamedPacket\obj\Debug\netcoreapp3.1\NamedPacket.dll
+C:\WORKSPACE\Named_packet\NamedPacket\obj\Debug\netcoreapp3.1\NamedPacket.pdb

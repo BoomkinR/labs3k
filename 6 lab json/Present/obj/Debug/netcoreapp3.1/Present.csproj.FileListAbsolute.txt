@@ -1,0 +1,15 @@
+C:\WORKSPACE\6 lab json\Present\bin\Debug\netcoreapp3.1\Present.exe
+C:\WORKSPACE\6 lab json\Present\bin\Debug\netcoreapp3.1\Present.deps.json
+C:\WORKSPACE\6 lab json\Present\bin\Debug\netcoreapp3.1\Present.runtimeconfig.json
+C:\WORKSPACE\6 lab json\Present\bin\Debug\netcoreapp3.1\Present.runtimeconfig.dev.json
+C:\WORKSPACE\6 lab json\Present\bin\Debug\netcoreapp3.1\Present.dll
+C:\WORKSPACE\6 lab json\Present\bin\Debug\netcoreapp3.1\Present.pdb
+C:\WORKSPACE\6 lab json\Present\obj\Debug\netcoreapp3.1\Present.csprojAssemblyReference.cache
+C:\WORKSPACE\6 lab json\Present\obj\Debug\netcoreapp3.1\Present.AssemblyInfoInputs.cache
+C:\WORKSPACE\6 lab json\Present\obj\Debug\netcoreapp3.1\Present.AssemblyInfo.cs
+C:\WORKSPACE\6 lab json\Present\obj\Debug\netcoreapp3.1\Present.dll
+C:\WORKSPACE\6 lab json\Present\obj\Debug\netcoreapp3.1\Present.pdb
+C:\WORKSPACE\6 lab json\Present\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\WORKSPACE\6 lab json\Present\obj\Debug\netcoreapp3.1\Present.csproj.CopyComplete
+C:\WORKSPACE\6 lab json\Present\bin\Debug\netcoreapp3.1\SerJohn.dll
+C:\WORKSPACE\6 lab json\Present\bin\Debug\netcoreapp3.1\SerJohn.pdb
